@@ -26,7 +26,7 @@ Other files in the repository
 The experiment parameters are defined in __constants.py__. To execute the experiments, please set the parameters in __constants.py__ file. 
 
 ### 2. Run the experiment
-To run the experiment, please run __loden_*setting*_defence.py__, replace *setting* with the LoDen knowledge settings to experiment with. You can use command line to run the experiment, e.g. in a LINUX environment, to execute the *Black-box LoDen* experiment, please input the following command under the source code path
+To run the experiment, please run loden_*setting*_defence.py, replace *setting* with the LoDen knowledge settings to experiment with. You can use command line to run the experiment, e.g. in a LINUX environment, to execute the *Black-box LoDen* experiment, please input the following command under the source code path
 
 ```python loden_blackbox_defence.py```
 
