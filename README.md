@@ -10,7 +10,7 @@ Here, there are three key runable files in the repository, including
 Other files in the repository
 * __constants.py__ Experiment constants, contains the default hyperparameter set for each experiment
 * __data_reader.py__ It is used for read dataset, split dataset into training set and test set for each participant
-* __aggregator.py__ Byzantine-robust aggregators, including
+* __aggregator.py__ Server-side robust aggregators, including
   * Fang [1] 
   * Median [2] 
   * Trimmed-Mean [2]
