@@ -1,4 +1,16 @@
 # LoDen
+##Citation
+If you use Loden for research, please cite the following paper:
+
+@article{Ma2023LoDen,
+title={LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks},
+author={Ma, Mengyao and Zhang, Yanjun and Arachchige, Pathum Chamikara Mahawaga and Zhang, Leo Yu and Baruwal Chhetri, Mohan and Bai, Guangdong},
+booktitle={18th ACM ASIA Conference on Computer and Communications Security {ASIACCS 2023'}},
+year={2023},
+publisher={ACM}
+}
+
+
 
 ## Code structure
 To run the experiments, please run *setting*_optimized.py, replace *setting* with the LoDen knowledge settings to experiment with.
