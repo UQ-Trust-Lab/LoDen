@@ -1,6 +1,6 @@
 # LoDen
-##Citation
-If you use Loden for research, please cite the following paper:
+## Cite LoDen
+If you use LoDen for research, please cite the following paper:
 
 @article{Ma2023LoDen,
 title={LoDen: Making Every Client in Federated Learning a Defender Against the Poisoning Membership Inference Attacks},
